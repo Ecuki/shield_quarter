@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/shield_quarter/static/css/main.6307ee26.chunk.css",
+    "main.js": "/shield_quarter/static/js/main.0facb150.chunk.js",
+    "main.js.map": "/shield_quarter/static/js/main.0facb150.chunk.js.map",
+    "runtime-main.js": "/shield_quarter/static/js/runtime-main.15e12410.js",
+    "runtime-main.js.map": "/shield_quarter/static/js/runtime-main.15e12410.js.map",
+    "static/css/2.0ff8547d.chunk.css": "/shield_quarter/static/css/2.0ff8547d.chunk.css",
+    "static/js/2.d480753e.chunk.js": "/shield_quarter/static/js/2.d480753e.chunk.js",
+    "static/js/2.d480753e.chunk.js.map": "/shield_quarter/static/js/2.d480753e.chunk.js.map",
+    "index.html": "/shield_quarter/index.html",
+    "precache-manifest.7968b5ba6d29428bb75d3a228e0e7731.js": "/shield_quarter/precache-manifest.7968b5ba6d29428bb75d3a228e0e7731.js",
+    "service-worker.js": "/shield_quarter/service-worker.js",
+    "static/css/2.0ff8547d.chunk.css.map": "/shield_quarter/static/css/2.0ff8547d.chunk.css.map",
+    "static/css/main.6307ee26.chunk.css.map": "/shield_quarter/static/css/main.6307ee26.chunk.css.map",
+    "static/js/2.d480753e.chunk.js.LICENSE.txt": "/shield_quarter/static/js/2.d480753e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/shield_quarter/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/contact-bgi.jpg": "/shield_quarter/static/media/contact-bgi.94c48f3f.jpg",
+    "static/media/hero-bgi.jpg": "/shield_quarter/static/media/hero-bgi.0e35a834.jpg",
+    "static/media/laptop1.jpg": "/shield_quarter/static/media/laptop1.7c48c8d2.jpg",
+    "static/media/office1.jpg": "/shield_quarter/static/media/office1.3d1f0525.jpg",
+    "static/media/office2.jpg": "/shield_quarter/static/media/office2.c3934291.jpg",
+    "static/media/person1.jpg": "/shield_quarter/static/media/person1.d76a18e1.jpg",
+    "static/media/person2.jpg": "/shield_quarter/static/media/person2.525a1535.jpg",
+    "static/media/person3.jpg": "/shield_quarter/static/media/person3.26923978.jpg",
+    "static/media/person4.jpg": "/shield_quarter/static/media/person4.5fff9557.jpg",
+    "static/media/person5.jpg": "/shield_quarter/static/media/person5.a0bee9ff.jpg",
+    "static/media/project1.jpg": "/shield_quarter/static/media/project1.07faa73d.jpg",
+    "static/media/project2.jpg": "/shield_quarter/static/media/project2.8a8ca6b8.jpg",
+    "static/media/project3.jpg": "/shield_quarter/static/media/project3.2af84348.jpg",
+    "static/media/workplace.jpg": "/shield_quarter/static/media/workplace.af718a3f.jpg",
+    "static/media/workplace2.jpg": "/shield_quarter/static/media/workplace2.fa0b97fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e12410.js",
+    "static/css/2.0ff8547d.chunk.css",
+    "static/js/2.d480753e.chunk.js",
+    "static/css/main.6307ee26.chunk.css",
+    "static/js/main.0facb150.chunk.js"
+  ]
+}
